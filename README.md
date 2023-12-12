@@ -34,3 +34,6 @@ Born on February 19, 1995, **Nikola Jokić** is a Serbian professional basketbal
 American professional basketball player **Trae Young** was born on September 19, 1998, and he currently plays point guard for the Atlanta Hawks in the NBA. Young immediately established himself as one of the league's rising stars thanks to his remarkable ball-handling and scoring abilities. He has a great shooting range and excellent court vision, standing at 6 feet 1 inch (1.85 meters). Young's influence on the game was demonstrated in his selection as an NBA All-Star in 2020 and 2021. He is a key component of the Atlanta Hawks' future success because of his electric playing style and knack for making big shots.
 
 ## Codes used for the Face Recognition
+_The following codes were used to program the face recognition task:_
+
+### ✅𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐈𝐦𝐚𝐠𝐞𝐬 𝐟𝐫𝐨𝐦 𝐆𝐢𝐭𝐡𝐮𝐛 𝐚𝐧𝐝 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐅𝐚𝐜𝐞_𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
