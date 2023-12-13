@@ -728,8 +728,9 @@ This section showcases images of teams with different players that were unknown 
 
     cv2_imshow(unknown_image_to_draw)
 
-## REFERENCES:
-_For NBA Players:_
+## 🔗 REFERENCES:
+### _For NBA Players:_
+
 
 **Trae Young** - https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png
 
@@ -742,7 +743,8 @@ _For NBA Players:_
 **Luka Dončić** - https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png
 
 
-_For NBA Teams:_
+### _For NBA Teams:_
+
 
 **Atlanta Hawks** - https://ca-times.brightspotcdn.com/dims4/default/164d32c/2147483647/strip/false/crop/4224x2817+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F67%2F2a%2F709cef9e4ae1f083820e599cb842%2F6d896abe15844eecb9061769ea592bac
 
