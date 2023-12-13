@@ -8,32 +8,32 @@ For the given task, the group was assigned to develop a face recognition program
 ## NBA PLAYERS
 _The following NBA Players were used for the Face Recognition:_
 
-## Stephen Curry
+## Stephen Curry 🌟
 ![Steph GIF](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/c03138b2-de78-4409-91f4-9ce0b8342100)
 
 Professional basketball player **Stephen Curry** has spent his whole playing career in the NBA with the Golden State Warriors. Curry, who was born in Akron, Ohio, on March 14, 1988, is recognized as one of the best shooters in sports history. Playing as a point guard, he stands 6 feet 3 inches (1.91 meters) tall and has helped the Warriors win numerous NBA titles. In addition to winning two NBA Most Valuable Player (MVP) awards, Curry has broken other three-point shooting records, including the record for most three-pointers made in a single season. In addition to his accomplishments on the floor, Curry is renowned for his charitable endeavors and good influence off the court.
 
-## Giannis Antetokoumnpo
+## Giannis Antetokoumnpo 🌟
 ![Giannis GIF](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/4140d3a1-86a8-488a-b474-9e572aab588f)
 
 Greek-born professional basketball player **Giannis Antetokounmpo** was born on December 6, 1994, and he currently plays for the Milwaukee Bucks in the NBA. Reaching a height of 2.11 meters (6 feet 11 inches), he is renowned for his remarkable athleticism, adaptability, and distinct skill set. Known as the "Greek Freak," Giannis has been named the NBA Most Valuable Player (MVP) on several occasions. In 2021, he led the Bucks to an NBA title and was named the MVP of the NBA Finals. His style of play blends skillful defensive play, explosive dunks, and versatility on the floor. Outside of the court, Giannis is praised throughout Greece and the US for his charitable endeavors, work ethic, and humility.
 
-## Luka Dončić
+## Luka Dončić 🌟
 ![Luka GIF](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/d559722e-f410-4505-bd65-1514c25260b5)
 
 Slovenian professional basketball player **Luka Dončić** was born on February 28, 1999, and he currently plays for the Dallas Mavericks in the NBA. Dončić, who is well-known for his extraordinary abilities, basketball intelligence, and vision, made a big impression on the league at an early age. With a height of 2.01 meters, or 6 feet 7 inches, he mainly plays forward and guard. After winning the 2019 NBA Rookie of the Year award, Luka went on to be picked as an NBA All-Star twice. Dončić's play style is characterized by his remarkable ball-handling skills, scoring prowess, and remarkable ability to produce clutch plays. Off the court, he is well-known for his warm demeanor and universal appeal, which helps the NBA's expanding foreign membership.
 
-## Nikola Jokić
+## Nikola Jokić 🌟
 ![Jokic GIF](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/1251d679-55dc-4b0f-9b5f-ebfb23e4f774)
 
 Born on February 19, 1995, **Nikola Jokić** is a Serbian professional basketball player who plays center for the NBA's Denver Nuggets. Jokić, renowned for his remarkable passing prowess and basketball acumen, has revolutionized the function of a contemporary NBA center. At 7 feet 2 inches (2.13 meters) tall, he has an array of skills that allow him to score, rebound, and create plays. Jokić became the second player in franchise history to win the NBA Most Valuable Player (MVP) title for the 2020–2021 season. The Nuggets' success in the league has been greatly attributed to his distinctive playing style and leadership on the floor. Jokić is well-known for his sportsmanship and humility off the court.
 
-## Trae Young
+## Trae Young 🌟
 ![Trae GIF](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/a7c4f476-5b01-465b-9965-b55c3c3a4680)
 
 American professional basketball player **Trae Young** was born on September 19, 1998, and he currently plays point guard for the Atlanta Hawks in the NBA. Young immediately established himself as one of the league's rising stars thanks to his remarkable ball-handling and scoring abilities. He has a great shooting range and excellent court vision, standing at 6 feet 1 inch (1.85 meters). Young's influence on the game was demonstrated in his selection as an NBA All-Star in 2020 and 2021. He is a key component of the Atlanta Hawks' future success because of his electric playing style and knack for making big shots.
 
-## Codes used for the Face Recognition
+## 💻 Codes used for the Face Recognition
 _The following codes were used to program the face recognition task:_
 
 ### 🏀𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐈𝐦𝐚𝐠𝐞𝐬 𝐟𝐫𝐨𝐦 𝐆𝐢𝐭𝐡𝐮𝐛 𝐚𝐧𝐝 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐅𝐚𝐜𝐞_𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
@@ -110,7 +110,7 @@ In Python, known image face recognition is the process of recognizing and authen
 
 ![Denver Nuggets](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/d4429272-49f6-44b3-91bd-91839c803573)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Denver Nuggets.jpg"
@@ -152,7 +152,7 @@ In Python, known image face recognition is the process of recognizing and authen
 
 ![Atlanta Hawks](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/bf81b9c6-e818-4686-b5f7-ccfdd6a63243)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Atlanta Hawks.jpg"
@@ -194,7 +194,7 @@ In Python, known image face recognition is the process of recognizing and authen
 
 ![Dallas Mavericks](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/fccd540b-b3c9-4a95-9591-3a2e2448cc93)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Dallas Mavericks.jpg"
@@ -236,7 +236,7 @@ In Python, known image face recognition is the process of recognizing and authen
 
 ![Milwaukee Bucks](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/ad6c54cf-11b7-4719-8288-113359ceee71)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Milwaukee Bucks.jpg"
@@ -278,7 +278,7 @@ In Python, known image face recognition is the process of recognizing and authen
 
 ![Golden State Warriors](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/4725bd44-6270-4682-a248-ed7ff4c4c0b1)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Golden State Warriors.jpg"
@@ -326,7 +326,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![Los Angeles Lakers](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/12237865-c7f9-42ad-b01f-89dd3e5a1fc4)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Los Angeles Lakers.jpg"
@@ -368,7 +368,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![New York Knicks](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/ea933b27-e702-46f7-9f33-69c7c7e240f8)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "New York Knicks.jpg"
@@ -410,7 +410,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![Charlotte Hornets](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/c765f41f-8bc4-4d8c-b90a-55124b65f1ca)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Charlotte Hornets.jpg"
@@ -452,7 +452,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![Minnesota Timberwolves](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/568da5d1-0bb6-44c7-8189-cc86893f4140)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Minnesota Timberwolves.jpg"
@@ -494,7 +494,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![Miami Heat](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/c2224fd2-2265-4c94-a9fb-553685ed4c7b)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Miami Heat.jpg"
@@ -536,7 +536,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![San Antonio Spurs](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/84a32d87-29f3-4418-91a7-443c79d513e9)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "San Antonio Spurs.jpg"
@@ -578,7 +578,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![Indiana Pacers](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/fe2b4878-7513-41eb-a710-f4d6787a00e6)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Indiana Pacers.jpg"
@@ -620,7 +620,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![Houston Rockets](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/d953b11e-c12c-432d-974c-925ed2b11692)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Houston Rockets.jpg"
@@ -662,7 +662,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![Cleveland Cavaliers](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/4eebfd19-d971-4147-a27e-75384134e9f6)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Cleveland Cavaliers.jpg"
@@ -704,7 +704,7 @@ This section showcases images of teams with different players that were unknown 
 
 ![Chicago Bulls](https://github.com/jujuvml/Group6_Finals_FaceRecognition/assets/143612018/7d5c3283-6cc9-4a8e-895a-ec86bcae7700)
 
-### 🏀Code Used:
+### 💻 Code Used:
 </div>
 
     file_name = "Chicago Bulls.jpg"
@@ -732,46 +732,46 @@ This section showcases images of teams with different players that were unknown 
 ### _For NBA Players:_
 
 
-**Trae Young** - https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png
+- **Trae Young** - https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png
 
-**Stephen Curry** - https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png
+- **Stephen Curry** - https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png
 
-**Giannis Antetokoumnpo** - https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png
+- **Giannis Antetokoumnpo** - https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png
 
-**Nikola Jokić** - https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png
+- **Nikola Jokić** - https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png
 
-**Luka Dončić** - https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png
+- **Luka Dončić** - https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png
 
 
 ### _For NBA Teams:_
 
 
-**Atlanta Hawks** - https://ca-times.brightspotcdn.com/dims4/default/164d32c/2147483647/strip/false/crop/4224x2817+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F67%2F2a%2F709cef9e4ae1f083820e599cb842%2F6d896abe15844eecb9061769ea592bac
+- **Atlanta Hawks** - https://ca-times.brightspotcdn.com/dims4/default/164d32c/2147483647/strip/false/crop/4224x2817+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F67%2F2a%2F709cef9e4ae1f083820e599cb842%2F6d896abe15844eecb9061769ea592bac
 
-**Golden State Warriors** - https://warriorswire.usatoday.com/wp-content/uploads/sites/33/2022/10/USATSI_19233965-e1666030305542.jpg?w=1000&h=600&crop=1
+- **Golden State Warriors** - https://warriorswire.usatoday.com/wp-content/uploads/sites/33/2022/10/USATSI_19233965-e1666030305542.jpg?w=1000&h=600&crop=1
 
-**Milwaukee Bucks** - https://onmilwaukee.com/images/articles/bu/bucks-offseason-questions/bucks-offseason-questions_fullsize_story1.jpg
+- **Milwaukee Bucks** - https://onmilwaukee.com/images/articles/bu/bucks-offseason-questions/bucks-offseason-questions_fullsize_story1.jpg
 
-**Denver Nuggets** - https://cdn.thednvr.com/wp-content/uploads/2023/11/09101526/USATSI_21852964-3000x2000.jpg
+- **Denver Nuggets** - https://cdn.thednvr.com/wp-content/uploads/2023/11/09101526/USATSI_21852964-3000x2000.jpg
 
-**Dallas Mavericks** - https://fivethirtyeight.com/wp-content/uploads/2022/05/AP22131301741536-4x3-1.jpg?w=916
+- **Dallas Mavericks** - https://fivethirtyeight.com/wp-content/uploads/2022/05/AP22131301741536-4x3-1.jpg?w=916
 
-**Los Angeles Lakers** - https://i.guim.co.uk/img/media/f289df4e3fe389e6d84aea24d0c2eaec8e0553e4/0_261_4968_2982/master/4968.jpg?width=465&dpr=1&s=none
+- **Los Angeles Lakers** - https://i.guim.co.uk/img/media/f289df4e3fe389e6d84aea24d0c2eaec8e0553e4/0_261_4968_2982/master/4968.jpg?width=465&dpr=1&s=none
 
-**New York Knicks** - https://images.ctfassets.net/1aemqu6a6t65/6FYwuUgvdzvWIX6loI4MZ7/28ce1fa7dadb1cf663a3280b77a81a68/new-york-knicks-msg-nyc_031821_2335?w=1200&h=800&q=75
+- **New York Knicks** - https://images.ctfassets.net/1aemqu6a6t65/6FYwuUgvdzvWIX6loI4MZ7/28ce1fa7dadb1cf663a3280b77a81a68/new-york-knicks-msg-nyc_031821_2335?w=1200&h=800&q=75
 
-**Charlotte Hornets** - https://fantomsportsindustries.com/wp-content/uploads/2023/10/the-charlotte-hornets-picked-up-a-big-win-over-golden-state-with-a-strong-defensive-effort-in-the-fourth-quarter_9qdh948lg3ga14iph4ii1806k.jpg
+- **Charlotte Hornets** - https://fantomsportsindustries.com/wp-content/uploads/2023/10/the-charlotte-hornets-picked-up-a-big-win-over-golden-state-with-a-strong-defensive-effort-in-the-fourth-quarter_9qdh948lg3ga14iph4ii1806k.jpg
 
-**Minnesota Timberwolves** - https://www.twincities.com/wp-content/uploads/2023/12/AP23329013510533.jpg?w=525
+- **Minnesota Timberwolves** - https://www.twincities.com/wp-content/uploads/2023/12/AP23329013510533.jpg?w=525
 
-**Miami Heat** - https://images.rr.sapo.pt/40825932237966121002defaultlarge_1024.jpg
+- **Miami Heat** - https://images.rr.sapo.pt/40825932237966121002defaultlarge_1024.jpg
 
-**San Antonio Spurs** - https://images2.minutemediacdn.com/image/upload/c_crop,w_4074,h_2291,x_0,y_54/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/29/01ha7tk06n5kf0313cn3.jpg
+- **San Antonio Spurs** - https://images2.minutemediacdn.com/image/upload/c_crop,w_4074,h_2291,x_0,y_54/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/29/01ha7tk06n5kf0313cn3.jpg
 
-**Indiana Pacers** - https://www.hispanosnba.com/imagenes/equipos/indiana-pacers-t2.jpg
+- **Indiana Pacers** - https://www.hispanosnba.com/imagenes/equipos/indiana-pacers-t2.jpg
 
-**Houston Rockets** - https://www.sportsbusinessjournal.com/-/media/Images/Daily/2023/11/16/Olivia-DAILY-November-16/Rockets-Toyota-Center-getty.ashx
+- **Houston Rockets** - https://www.sportsbusinessjournal.com/-/media/Images/Daily/2023/11/16/Olivia-DAILY-November-16/Rockets-Toyota-Center-getty.ashx
 
-**Cleveland Cavaliers** - https://facts.net/wp-content/uploads/2023/07/13-facts-about-cleveland-cavaliers-1690456959.jpg
+- **Cleveland Cavaliers** - https://facts.net/wp-content/uploads/2023/07/13-facts-about-cleveland-cavaliers-1690456959.jpg
 
-**Chicago Bulls** - https://cdn.vox-cdn.com/thumbor/TXQgAtXIKKRZgJjn0vPZdq4kRs0=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/71296859/1239436766.0.jpg
+- **Chicago Bulls** - https://cdn.vox-cdn.com/thumbor/TXQgAtXIKKRZgJjn0vPZdq4kRs0=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/71296859/1239436766.0.jpg
